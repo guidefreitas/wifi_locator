@@ -1,0 +1,1246 @@
+bedroom1,1,2c:e4:12:85:18:8b,Matrix,-50,2437
+bedroom1,1,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,2,2c:e4:12:85:18:8b,Matrix,-46,2437
+bedroom1,2,54:e6:fc:c8:3c:1e,Nano,-83,2442
+bedroom1,3,2c:e4:12:85:18:8b,Matrix,-55,2437
+bedroom1,3,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,3,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom1,4,2c:e4:12:85:18:8b,Matrix,-55,2437
+bedroom1,4,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,4,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom1,5,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom1,5,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+livingroom,1,2c:e4:12:85:18:8b,Matrix,-53,2437
+livingroom,1,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+livingroom,1,54:e6:fc:c8:3c:1e,Nano,-88,2442
+livingroom,1,00:15:6d:dc:31:15,wireless,-93,2417
+livingroom,2,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,2,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+livingroom,2,54:e6:fc:c8:3c:1e,Nano,-88,2442
+livingroom,2,00:15:6d:dc:31:15,wireless,-93,2417
+livingroom,3,2c:e4:12:85:18:8b,Matrix,-58,2437
+livingroom,3,54:e6:fc:c8:3c:1e,Nano,-88,2442
+livingroom,3,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+livingroom,4,2c:e4:12:85:18:8b,Matrix,-62,2437
+livingroom,4,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+livingroom,5,2c:e4:12:85:18:8b,Matrix,-58,2437
+livingroom,5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+livingroom,5,54:e6:fc:c8:3c:1e,Nano,-85,2442
+livingroom,5,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,1,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,1,54:e6:fc:c8:3c:1e,Nano,-83,2442
+dinningroom,1,00:4f:62:10:ce:be,PLASBRASIL,-83,2427
+dinningroom,1,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+dinningroom,1,00:15:6d:dc:31:15,wireless,-94,2417
+dinningroom,2,2c:e4:12:85:18:8b,Matrix,-53,2437
+dinningroom,2,54:e6:fc:c8:3c:1e,Nano,-86,2442
+dinningroom,2,00:4f:62:10:ce:be,PLASBRASIL,-83,2427
+dinningroom,2,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+dinningroom,2,00:15:6d:dc:31:15,wireless,-93,2417
+dinningroom,2,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+dinningroom,3,2c:e4:12:85:18:8b,Matrix,-65,2437
+dinningroom,3,54:e6:fc:c8:3c:1e,Nano,-86,2442
+dinningroom,3,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,3,00:15:6d:dc:31:15,wireless,-93,2417
+dinningroom,3,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+dinningroom,4,2c:e4:12:85:18:8b,Matrix,-61,2437
+dinningroom,4,54:e6:fc:c8:3c:1e,Nano,-83,2442
+dinningroom,4,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,4,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+dinningroom,5,2c:e4:12:85:18:8b,Matrix,-52,2437
+dinningroom,5,54:e6:fc:c8:3c:1e,Nano,-90,2442
+bedroom2,1,2c:e4:12:85:18:8b,Matrix,-59,2437
+bedroom2,1,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom2,1,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom2,2,2c:e4:12:85:18:8b,Matrix,-59,2437
+bedroom2,2,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom2,2,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom2,2,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,3,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom2,3,54:e6:fc:c8:3c:1e,Nano,-83,2442
+bedroom2,3,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom2,3,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom2,4,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom2,4,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom2,4,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom2,4,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom2,5,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom2,5,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom2,5,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom3,1,2c:e4:12:85:18:8b,Matrix,-72,2437
+bedroom3,1,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom3,1,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,2,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,2,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,3,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom3,3,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,3,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,3,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+bedroom3,4,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,4,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,4,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,4,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+bedroom3,5,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom3,5,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,5,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,6,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom3,6,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,6,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+bedroom3,8,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom3,8,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,8,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+bedroom1,10,2c:e4:12:85:18:8b,Matrix,-57,2437
+bedroom1,10,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom1,10,00:4f:62:10:ce:be,PLASBRASIL,-93,2427
+bedroom1,11,2c:e4:12:85:18:8b,Matrix,-57,2437
+bedroom1,11,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom1,11,00:4f:62:10:ce:be,PLASBRASIL,-93,2427
+bedroom1,12,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom1,12,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom1,12,00:4f:62:10:ce:be,PLASBRASIL,-93,2427
+bedroom1,12,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-91,2412
+bedroom1,13,2c:e4:12:85:18:8b,Matrix,-54,2437
+bedroom1,13,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom1,13,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-91,2412
+bedroom1,14,2c:e4:12:85:18:8b,Matrix,-54,2437
+bedroom1,14,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom1,14,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-91,2412
+bedroom1,15,2c:e4:12:85:18:8b,Matrix,-55,2437
+bedroom1,15,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,15,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+bedroom1,16,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom1,16,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,16,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+bedroom1,16,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom1,17,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom1,17,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,17,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+bedroom1,17,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom1,18,2c:e4:12:85:18:8b,Matrix,-61,2437
+bedroom1,18,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,18,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom1,19,2c:e4:12:85:18:8b,Matrix,-50,2437
+bedroom1,19,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom1,19,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom1,20,2c:e4:12:85:18:8b,Matrix,-39,2437
+bedroom1,20,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,20,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom1,20,54:e6:fc:c8:3c:1e,Nano,-85,2442
+livingroom,10,2c:e4:12:85:18:8b,Matrix,-72,2437
+livingroom,10,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+livingroom,10,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,10,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,10,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,10,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,11,2c:e4:12:85:18:8b,Matrix,-72,2437
+livingroom,11,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+livingroom,11,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,11,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,11,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,11,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,12,2c:e4:12:85:18:8b,Matrix,-71,2437
+livingroom,12,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+livingroom,12,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,12,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,12,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,12,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,13,2c:e4:12:85:18:8b,Matrix,-55,2437
+livingroom,13,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+livingroom,13,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,13,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,13,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,13,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,13,68:15:90:5d:68:51,GVT-6850,-95,2412
+livingroom,14,2c:e4:12:85:18:8b,Matrix,-55,2437
+livingroom,14,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+livingroom,14,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,14,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,14,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,14,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,14,68:15:90:5d:68:51,GVT-6850,-95,2412
+livingroom,15,2c:e4:12:85:18:8b,Matrix,-63,2437
+livingroom,15,00:4f:62:10:ce:be,PLASBRASIL,-83,2427
+livingroom,15,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,15,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,15,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,15,00:15:6d:dc:31:15,wireless,-92,2417
+livingroom,15,68:15:90:5d:68:51,GVT-6850,-95,2412
+livingroom,16,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,16,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,16,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,16,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,16,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,16,00:15:6d:dc:31:15,wireless,-92,2417
+livingroom,16,68:15:90:5d:68:51,GVT-6850,-95,2412
+livingroom,17,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,17,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,17,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,17,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,17,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,17,00:15:6d:dc:31:15,wireless,-92,2417
+livingroom,17,68:15:90:5d:68:51,GVT-6850,-95,2412
+livingroom,18,2c:e4:12:85:18:8b,Matrix,-69,2437
+livingroom,18,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,18,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,18,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,18,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+livingroom,18,00:15:6d:dc:31:15,wireless,-92,2417
+livingroom,19,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,19,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,19,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,19,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+livingroom,20,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,20,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,20,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,20,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+dinningroom,10,2c:e4:12:85:18:8b,Matrix,-43,2437
+dinningroom,10,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+dinningroom,10,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,10,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+dinningroom,10,68:15:90:5f:61:6a,GVT-6169,-84,2462
+dinningroom,10,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,11,2c:e4:12:85:18:8b,Matrix,-43,2437
+dinningroom,11,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+dinningroom,11,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,11,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+dinningroom,11,68:15:90:5f:61:6a,GVT-6169,-84,2462
+dinningroom,11,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,12,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,12,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+dinningroom,12,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,12,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+dinningroom,12,68:15:90:5f:61:6a,GVT-6169,-86,2462
+dinningroom,12,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,13,2c:e4:12:85:18:8b,Matrix,-52,2437
+dinningroom,13,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+dinningroom,13,54:e6:fc:c8:3c:1e,Nano,-81,2442
+dinningroom,13,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+dinningroom,13,68:15:90:5f:61:6a,GVT-6169,-86,2462
+dinningroom,13,00:15:6d:dc:31:15,wireless,-88,2417
+dinningroom,14,2c:e4:12:85:18:8b,Matrix,-52,2437
+dinningroom,14,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+dinningroom,14,54:e6:fc:c8:3c:1e,Nano,-81,2442
+dinningroom,14,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+dinningroom,14,68:15:90:5f:61:6a,GVT-6169,-86,2462
+dinningroom,14,00:15:6d:dc:31:15,wireless,-88,2417
+dinningroom,15,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,15,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,15,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,15,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+dinningroom,15,68:15:90:5f:61:6a,GVT-6169,-86,2462
+dinningroom,15,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,16,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,16,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,16,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,16,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+dinningroom,16,68:15:90:5f:61:6a,GVT-6169,-86,2462
+dinningroom,16,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,17,2c:e4:12:85:18:8b,Matrix,-61,2437
+dinningroom,17,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+dinningroom,17,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,17,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,18,2c:e4:12:85:18:8b,Matrix,-61,2437
+dinningroom,18,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+dinningroom,18,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,18,00:15:6d:dc:31:15,wireless,-97,2417
+dinningroom,19,2c:e4:12:85:18:8b,Matrix,-56,2437
+dinningroom,19,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+dinningroom,19,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,19,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+dinningroom,19,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+dinningroom,20,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,20,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+dinningroom,20,54:e6:fc:c8:3c:1e,Nano,-87,2442
+dinningroom,20,00:1a:3f:c6:db:48,Casa Prasbrasil,-87,2462
+dinningroom,20,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+bedroom2,10,2c:e4:12:85:18:8b,Matrix,-67,2437
+bedroom2,10,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,10,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom2,10,00:1a:3f:c6:db:48,Casa Prasbrasil,-87,2462
+bedroom2,10,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,11,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom2,11,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,11,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom2,11,00:15:6d:dc:31:15,wireless,-84,2417
+bedroom2,11,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,12,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom2,12,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,12,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom2,12,00:15:6d:dc:31:15,wireless,-84,2417
+bedroom2,12,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,13,2c:e4:12:85:18:8b,Matrix,-79,2437
+bedroom2,13,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom2,13,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,13,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,13,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,14,2c:e4:12:85:18:8b,Matrix,-79,2437
+bedroom2,14,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom2,14,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,14,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,14,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,15,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,15,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom2,15,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom2,15,00:15:6d:dc:31:15,wireless,-87,2417
+bedroom2,15,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,16,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,16,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom2,16,54:e6:fc:c8:3c:1e,Nano,-88,2442
+bedroom2,16,00:15:6d:dc:31:15,wireless,-87,2417
+bedroom2,16,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom2,17,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom2,17,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,17,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,17,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom2,18,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom2,18,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,18,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,18,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom2,19,2c:e4:12:85:18:8b,Matrix,-67,2437
+bedroom2,19,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,19,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,19,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom2,20,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,20,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom2,20,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom2,20,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom2,20,00:4f:62:10:ce:be,PLASBRASIL,-93,2427
+bedroom3,10,2c:e4:12:85:18:8b,Matrix,-69,2437
+bedroom3,10,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,10,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,10,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+bedroom3,10,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,10,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,11,2c:e4:12:85:18:8b,Matrix,-69,2437
+bedroom3,11,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,11,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,11,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+bedroom3,11,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,11,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,12,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,12,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,12,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,12,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+bedroom3,12,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+bedroom3,12,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,13,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,13,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,13,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,13,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+bedroom3,13,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+bedroom3,13,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,14,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,14,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,14,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,14,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,14,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,14,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,14,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,15,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,15,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom3,15,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,15,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,15,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,15,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom3,15,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,16,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,16,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,16,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,16,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom3,16,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,16,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,17,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,17,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,17,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,17,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom3,17,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,17,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,18,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,18,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,18,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,18,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom3,18,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+bedroom3,18,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,19,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,19,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,19,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,19,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom3,19,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+bedroom3,19,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom3,20,2c:e4:12:85:18:8b,Matrix,-73,2437
+bedroom3,20,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,20,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,20,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,20,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+bedroom1,65776128-f0fa-4cea-a3b0-d11aba621949,2c:e4:12:85:18:8b,Matrix,-45,2437
+bedroom1,65776128-f0fa-4cea-a3b0-d11aba621949,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,65776128-f0fa-4cea-a3b0-d11aba621949,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+bedroom1,2583f7b6-5b38-4e80-b5a1-00d751b01407,2c:e4:12:85:18:8b,Matrix,-52,2437
+bedroom1,2583f7b6-5b38-4e80-b5a1-00d751b01407,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,2583f7b6-5b38-4e80-b5a1-00d751b01407,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,ba93ac2b-8c39-45ee-b02c-ff1e3293775d,2c:e4:12:85:18:8b,Matrix,-52,2437
+bedroom1,ba93ac2b-8c39-45ee-b02c-ff1e3293775d,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,ba93ac2b-8c39-45ee-b02c-ff1e3293775d,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,fb12e8eb-380f-4a27-aa68-ea525af28f86,2c:e4:12:85:18:8b,Matrix,-52,2437
+bedroom1,fb12e8eb-380f-4a27-aa68-ea525af28f86,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom1,fb12e8eb-380f-4a27-aa68-ea525af28f86,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,62a85d09-41e4-4f69-b81b-13f878be03fb,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom1,62a85d09-41e4-4f69-b81b-13f878be03fb,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,62a85d09-41e4-4f69-b81b-13f878be03fb,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,733c659e-1237-4885-8b55-4a079de12f9a,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom1,733c659e-1237-4885-8b55-4a079de12f9a,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,733c659e-1237-4885-8b55-4a079de12f9a,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,09945cd5-bda7-4665-a3bd-00143cb4ec26,2c:e4:12:85:18:8b,Matrix,-55,2437
+bedroom1,09945cd5-bda7-4665-a3bd-00143cb4ec26,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom1,3444a589-6b9a-432e-a701-2c56c228b351,2c:e4:12:85:18:8b,Matrix,-55,2437
+bedroom1,3444a589-6b9a-432e-a701-2c56c228b351,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom1,0a6dc823-3e31-4818-add3-c9b717e2e5f1,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom1,0a6dc823-3e31-4818-add3-c9b717e2e5f1,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,0a6dc823-3e31-4818-add3-c9b717e2e5f1,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,90eeaae9-5634-4e95-bcc6-4f770b9ea175,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom1,90eeaae9-5634-4e95-bcc6-4f770b9ea175,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,90eeaae9-5634-4e95-bcc6-4f770b9ea175,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,32a42267-23cc-49ca-b4e7-a746c6a12485,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom1,32a42267-23cc-49ca-b4e7-a746c6a12485,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,32a42267-23cc-49ca-b4e7-a746c6a12485,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom1,973f1050-3dd7-4381-beb2-40bf516befc2,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,973f1050-3dd7-4381-beb2-40bf516befc2,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,973f1050-3dd7-4381-beb2-40bf516befc2,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom1,51bfb449-5b48-45c7-bd2d-d20dd21f7dab,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,51bfb449-5b48-45c7-bd2d-d20dd21f7dab,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,51bfb449-5b48-45c7-bd2d-d20dd21f7dab,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+livingroom,52aba763-ef34-462c-a357-9442eafbed3f,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,52aba763-ef34-462c-a357-9442eafbed3f,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,52aba763-ef34-462c-a357-9442eafbed3f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,52aba763-ef34-462c-a357-9442eafbed3f,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+livingroom,e307cfae-6e20-41ba-ab13-6b37c536ab71,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,e307cfae-6e20-41ba-ab13-6b37c536ab71,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,e307cfae-6e20-41ba-ab13-6b37c536ab71,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,e307cfae-6e20-41ba-ab13-6b37c536ab71,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+livingroom,8c92a595-d765-4e12-9d2f-6822c939bfea,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,8c92a595-d765-4e12-9d2f-6822c939bfea,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,8c92a595-d765-4e12-9d2f-6822c939bfea,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,8c92a595-d765-4e12-9d2f-6822c939bfea,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+livingroom,78fca506-1eb3-47fc-afa6-929bf111ccb2,2c:e4:12:85:18:8b,Matrix,-51,2437
+livingroom,78fca506-1eb3-47fc-afa6-929bf111ccb2,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,78fca506-1eb3-47fc-afa6-929bf111ccb2,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,78fca506-1eb3-47fc-afa6-929bf111ccb2,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,78fca506-1eb3-47fc-afa6-929bf111ccb2,54:e6:fc:c8:3c:1e,Nano,-85,2442
+livingroom,4c284159-527f-4f15-812f-5d2997215664,2c:e4:12:85:18:8b,Matrix,-51,2437
+livingroom,4c284159-527f-4f15-812f-5d2997215664,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,4c284159-527f-4f15-812f-5d2997215664,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,4c284159-527f-4f15-812f-5d2997215664,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,4c284159-527f-4f15-812f-5d2997215664,54:e6:fc:c8:3c:1e,Nano,-85,2442
+livingroom,c5f52807-a4d7-4fdc-9271-d4af1ac25f5e,2c:e4:12:85:18:8b,Matrix,-51,2437
+livingroom,c5f52807-a4d7-4fdc-9271-d4af1ac25f5e,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+livingroom,c5f52807-a4d7-4fdc-9271-d4af1ac25f5e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+livingroom,c5f52807-a4d7-4fdc-9271-d4af1ac25f5e,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,c5f52807-a4d7-4fdc-9271-d4af1ac25f5e,54:e6:fc:c8:3c:1e,Nano,-85,2442
+livingroom,f67b53fe-d589-46e4-b0a0-3926149eb573,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,f67b53fe-d589-46e4-b0a0-3926149eb573,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,f67b53fe-d589-46e4-b0a0-3926149eb573,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,f67b53fe-d589-46e4-b0a0-3926149eb573,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,f2f89f6e-2cbc-4f2d-9f58-81e2c33618d0,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,f2f89f6e-2cbc-4f2d-9f58-81e2c33618d0,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,f2f89f6e-2cbc-4f2d-9f58-81e2c33618d0,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,f2f89f6e-2cbc-4f2d-9f58-81e2c33618d0,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,8d651620-f9b0-49a4-be96-4090f2dff518,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,8d651620-f9b0-49a4-be96-4090f2dff518,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,8d651620-f9b0-49a4-be96-4090f2dff518,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+livingroom,8d651620-f9b0-49a4-be96-4090f2dff518,54:e6:fc:c8:3c:1e,Nano,-86,2442
+livingroom,665e0ec9-cc93-4197-abb8-cfb42bdb5e68,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,665e0ec9-cc93-4197-abb8-cfb42bdb5e68,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,665e0ec9-cc93-4197-abb8-cfb42bdb5e68,00:1d:d5:cf:33:80,NETVIRTUA-219,-91,2412
+livingroom,665e0ec9-cc93-4197-abb8-cfb42bdb5e68,54:e6:fc:c8:3c:1e,Nano,-83,2442
+livingroom,665e0ec9-cc93-4197-abb8-cfb42bdb5e68,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+livingroom,28c68c4b-8f45-4bef-9561-23c0db28b202,2c:e4:12:85:18:8b,Matrix,-57,2437
+livingroom,28c68c4b-8f45-4bef-9561-23c0db28b202,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+livingroom,28c68c4b-8f45-4bef-9561-23c0db28b202,00:1d:d5:cf:33:80,NETVIRTUA-219,-91,2412
+livingroom,28c68c4b-8f45-4bef-9561-23c0db28b202,54:e6:fc:c8:3c:1e,Nano,-83,2442
+livingroom,28c68c4b-8f45-4bef-9561-23c0db28b202,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+livingroom,b227984c-cd2a-4b4d-8c3c-c3c0ea51e23a,2c:e4:12:85:18:8b,Matrix,-54,2437
+livingroom,b227984c-cd2a-4b4d-8c3c-c3c0ea51e23a,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+livingroom,b227984c-cd2a-4b4d-8c3c-c3c0ea51e23a,00:1d:d5:cf:33:80,NETVIRTUA-219,-91,2412
+livingroom,b227984c-cd2a-4b4d-8c3c-c3c0ea51e23a,54:e6:fc:c8:3c:1e,Nano,-83,2442
+livingroom,b227984c-cd2a-4b4d-8c3c-c3c0ea51e23a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+dinningroom,54f9762e-73ca-4770-acba-1137a6dc1bd8,2c:e4:12:85:18:8b,Matrix,-54,2437
+dinningroom,54f9762e-73ca-4770-acba-1137a6dc1bd8,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+dinningroom,54f9762e-73ca-4770-acba-1137a6dc1bd8,00:1d:d5:cf:33:80,NETVIRTUA-219,-91,2412
+dinningroom,54f9762e-73ca-4770-acba-1137a6dc1bd8,54:e6:fc:c8:3c:1e,Nano,-83,2442
+dinningroom,54f9762e-73ca-4770-acba-1137a6dc1bd8,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+dinningroom,8a36152b-952d-4193-9304-e74f617553be,2c:e4:12:85:18:8b,Matrix,-52,2437
+dinningroom,8a36152b-952d-4193-9304-e74f617553be,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,8a36152b-952d-4193-9304-e74f617553be,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,8a36152b-952d-4193-9304-e74f617553be,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+dinningroom,8a36152b-952d-4193-9304-e74f617553be,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,97b2b9f5-7d45-40e9-97b4-b0fcb48e5ac2,2c:e4:12:85:18:8b,Matrix,-52,2437
+dinningroom,97b2b9f5-7d45-40e9-97b4-b0fcb48e5ac2,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,97b2b9f5-7d45-40e9-97b4-b0fcb48e5ac2,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,97b2b9f5-7d45-40e9-97b4-b0fcb48e5ac2,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+dinningroom,97b2b9f5-7d45-40e9-97b4-b0fcb48e5ac2,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,98f06b6a-5f3c-4074-a449-ed2ba9b2916e,2c:e4:12:85:18:8b,Matrix,-56,2437
+dinningroom,98f06b6a-5f3c-4074-a449-ed2ba9b2916e,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,98f06b6a-5f3c-4074-a449-ed2ba9b2916e,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,98f06b6a-5f3c-4074-a449-ed2ba9b2916e,00:15:6d:dc:31:15,wireless,-93,2417
+dinningroom,2ea6f83d-7aef-4ffb-823e-23d0034d31d7,2c:e4:12:85:18:8b,Matrix,-56,2437
+dinningroom,2ea6f83d-7aef-4ffb-823e-23d0034d31d7,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,2ea6f83d-7aef-4ffb-823e-23d0034d31d7,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,2ea6f83d-7aef-4ffb-823e-23d0034d31d7,00:15:6d:dc:31:15,wireless,-93,2417
+dinningroom,38d271d1-c1a5-4aa6-ba49-a1daa0f6456a,2c:e4:12:85:18:8b,Matrix,-56,2437
+dinningroom,38d271d1-c1a5-4aa6-ba49-a1daa0f6456a,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,38d271d1-c1a5-4aa6-ba49-a1daa0f6456a,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,38d271d1-c1a5-4aa6-ba49-a1daa0f6456a,00:15:6d:dc:31:15,wireless,-93,2417
+dinningroom,0ad4a1c1-a8bf-4517-93cc-bebd89c74bd2,2c:e4:12:85:18:8b,Matrix,-53,2437
+dinningroom,0ad4a1c1-a8bf-4517-93cc-bebd89c74bd2,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,0ad4a1c1-a8bf-4517-93cc-bebd89c74bd2,54:e6:fc:c8:3c:1e,Nano,-81,2442
+dinningroom,0ad4a1c1-a8bf-4517-93cc-bebd89c74bd2,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,8d8f5100-9baf-41b9-a7e3-b80e13c82bef,2c:e4:12:85:18:8b,Matrix,-53,2437
+dinningroom,8d8f5100-9baf-41b9-a7e3-b80e13c82bef,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,8d8f5100-9baf-41b9-a7e3-b80e13c82bef,54:e6:fc:c8:3c:1e,Nano,-81,2442
+dinningroom,8d8f5100-9baf-41b9-a7e3-b80e13c82bef,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,89bc2e49-e380-40a4-97b6-25f60255384f,2c:e4:12:85:18:8b,Matrix,-53,2437
+dinningroom,89bc2e49-e380-40a4-97b6-25f60255384f,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+dinningroom,89bc2e49-e380-40a4-97b6-25f60255384f,54:e6:fc:c8:3c:1e,Nano,-81,2442
+dinningroom,89bc2e49-e380-40a4-97b6-25f60255384f,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,44f396c5-4c21-451f-aaf7-112dca391b34,2c:e4:12:85:18:8b,Matrix,-67,2437
+dinningroom,44f396c5-4c21-451f-aaf7-112dca391b34,54:e6:fc:c8:3c:1e,Nano,-83,2442
+dinningroom,44f396c5-4c21-451f-aaf7-112dca391b34,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,44f396c5-4c21-451f-aaf7-112dca391b34,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+dinningroom,2fe85a85-8e34-4109-9fac-041a8a475d7c,2c:e4:12:85:18:8b,Matrix,-67,2437
+dinningroom,2fe85a85-8e34-4109-9fac-041a8a475d7c,54:e6:fc:c8:3c:1e,Nano,-83,2442
+dinningroom,2fe85a85-8e34-4109-9fac-041a8a475d7c,00:15:6d:dc:31:15,wireless,-91,2417
+dinningroom,2fe85a85-8e34-4109-9fac-041a8a475d7c,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+bedroom2,b931a281-0a3d-4721-a712-e1e6a69799fd,2c:e4:12:85:18:8b,Matrix,-57,2437
+bedroom2,b931a281-0a3d-4721-a712-e1e6a69799fd,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom2,b931a281-0a3d-4721-a712-e1e6a69799fd,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom2,b931a281-0a3d-4721-a712-e1e6a69799fd,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,b931a281-0a3d-4721-a712-e1e6a69799fd,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,68d64279-0957-4e30-a589-a570ba019d5b,2c:e4:12:85:18:8b,Matrix,-57,2437
+bedroom2,68d64279-0957-4e30-a589-a570ba019d5b,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom2,68d64279-0957-4e30-a589-a570ba019d5b,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom2,68d64279-0957-4e30-a589-a570ba019d5b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,68d64279-0957-4e30-a589-a570ba019d5b,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,a9296594-0994-4c71-8359-b23d4514be47,2c:e4:12:85:18:8b,Matrix,-57,2437
+bedroom2,a9296594-0994-4c71-8359-b23d4514be47,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom2,a9296594-0994-4c71-8359-b23d4514be47,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom2,a9296594-0994-4c71-8359-b23d4514be47,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,a9296594-0994-4c71-8359-b23d4514be47,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,4bca0ed6-569e-4610-aea9-f7bc763f183b,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,4bca0ed6-569e-4610-aea9-f7bc763f183b,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,4bca0ed6-569e-4610-aea9-f7bc763f183b,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,4bca0ed6-569e-4610-aea9-f7bc763f183b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,4bca0ed6-569e-4610-aea9-f7bc763f183b,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,e8d76ecb-aea3-413a-a2ae-99687210ba61,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,e8d76ecb-aea3-413a-a2ae-99687210ba61,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,e8d76ecb-aea3-413a-a2ae-99687210ba61,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,e8d76ecb-aea3-413a-a2ae-99687210ba61,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,e8d76ecb-aea3-413a-a2ae-99687210ba61,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,7b4252b0-9908-43e5-b19f-cb444c55be6d,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,7b4252b0-9908-43e5-b19f-cb444c55be6d,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,7b4252b0-9908-43e5-b19f-cb444c55be6d,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,7b4252b0-9908-43e5-b19f-cb444c55be6d,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,7b4252b0-9908-43e5-b19f-cb444c55be6d,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom2,0e3ebf51-f68a-4506-a433-21f7284dc9fd,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,0e3ebf51-f68a-4506-a433-21f7284dc9fd,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,0e3ebf51-f68a-4506-a433-21f7284dc9fd,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,0e3ebf51-f68a-4506-a433-21f7284dc9fd,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,fd2bfb7c-8945-4f7b-80b0-205ffe94827f,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,fd2bfb7c-8945-4f7b-80b0-205ffe94827f,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,fd2bfb7c-8945-4f7b-80b0-205ffe94827f,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,fd2bfb7c-8945-4f7b-80b0-205ffe94827f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,a84177d4-e4b3-4f0a-bacc-11a0257bc0bf,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,a84177d4-e4b3-4f0a-bacc-11a0257bc0bf,54:e6:fc:c8:3c:1e,Nano,-80,2442
+bedroom2,a84177d4-e4b3-4f0a-bacc-11a0257bc0bf,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,a84177d4-e4b3-4f0a-bacc-11a0257bc0bf,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-96,2412
+bedroom2,999fbee8-12b2-4ca8-ada8-43d957d31ace,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,999fbee8-12b2-4ca8-ada8-43d957d31ace,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom2,999fbee8-12b2-4ca8-ada8-43d957d31ace,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,999fbee8-12b2-4ca8-ada8-43d957d31ace,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom2,6cb5792b-6147-4d81-881c-a7f1415698ed,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,6cb5792b-6147-4d81-881c-a7f1415698ed,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom2,6cb5792b-6147-4d81-881c-a7f1415698ed,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom2,6cb5792b-6147-4d81-881c-a7f1415698ed,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom3,3eb98794-715a-4d7d-b6ac-45690e4fde2a,2c:e4:12:85:18:8b,Matrix,-56,2437
+bedroom3,3eb98794-715a-4d7d-b6ac-45690e4fde2a,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,3eb98794-715a-4d7d-b6ac-45690e4fde2a,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom3,3eb98794-715a-4d7d-b6ac-45690e4fde2a,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,97c11e84-894d-4a7f-833e-5098855459a9,2c:e4:12:85:18:8b,Matrix,-56,2437
+bedroom3,97c11e84-894d-4a7f-833e-5098855459a9,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,97c11e84-894d-4a7f-833e-5098855459a9,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom3,97c11e84-894d-4a7f-833e-5098855459a9,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,dbd27d57-aaa5-4e15-9257-dcab26c2b268,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom3,dbd27d57-aaa5-4e15-9257-dcab26c2b268,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,dbd27d57-aaa5-4e15-9257-dcab26c2b268,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,dbd27d57-aaa5-4e15-9257-dcab26c2b268,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom3,6cb76313-4480-48f3-8b99-c86880482972,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom3,6cb76313-4480-48f3-8b99-c86880482972,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,6cb76313-4480-48f3-8b99-c86880482972,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,6cb76313-4480-48f3-8b99-c86880482972,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom3,26f70281-c8b6-4911-8f52-4b6b2b721966,2c:e4:12:85:18:8b,Matrix,-71,2437
+bedroom3,26f70281-c8b6-4911-8f52-4b6b2b721966,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,26f70281-c8b6-4911-8f52-4b6b2b721966,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,26f70281-c8b6-4911-8f52-4b6b2b721966,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+bedroom3,64860b61-1e76-443f-9666-e1477e3d7053,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,64860b61-1e76-443f-9666-e1477e3d7053,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,64860b61-1e76-443f-9666-e1477e3d7053,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,64860b61-1e76-443f-9666-e1477e3d7053,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,b11ba102-ad8f-4038-9c1b-d21a873c9608,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,b11ba102-ad8f-4038-9c1b-d21a873c9608,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,b11ba102-ad8f-4038-9c1b-d21a873c9608,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,b11ba102-ad8f-4038-9c1b-d21a873c9608,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,55ca4888-75b5-4cac-b546-f7aeecafdab2,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,55ca4888-75b5-4cac-b546-f7aeecafdab2,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom3,55ca4888-75b5-4cac-b546-f7aeecafdab2,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,55ca4888-75b5-4cac-b546-f7aeecafdab2,00:4f:62:10:ce:be,PLASBRASIL,-90,2427
+bedroom3,6b9b104e-18f2-472f-abaf-e8b429b49b67,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,6b9b104e-18f2-472f-abaf-e8b429b49b67,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,6b9b104e-18f2-472f-abaf-e8b429b49b67,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,6b9b104e-18f2-472f-abaf-e8b429b49b67,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+bedroom3,c7c4190c-3020-4134-984d-0e2a69ba7305,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,c7c4190c-3020-4134-984d-0e2a69ba7305,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,c7c4190c-3020-4134-984d-0e2a69ba7305,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,c7c4190c-3020-4134-984d-0e2a69ba7305,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+bedroom3,050d42c2-7645-4d9f-b051-63a26e6d9f01,00:15:6d:dc:31:15,wireless,-90,2417
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+bedroom3,9e5da414-72d4-4089-b188-b049a1a61116,00:15:6d:dc:31:15,wireless,-90,2417
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,00:4f:62:10:ce:be,PLASBRASIL,-91,2427
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,00:1a:3f:c6:db:48,Casa Prasbrasil,-82,2462
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+bedroom3,41bb18f1-6079-43f0-b8d3-fb413e39b4c5,00:15:6d:dc:31:15,wireless,-90,2417
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,2c:e4:12:85:18:8b,Matrix,-61,2437
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,700d46df-2a22-497d-9da9-3b0e74c5e633,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,2c:e4:12:85:18:8b,Matrix,-61,2437
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,a5d758a2-c362-4854-9715-db97a40eff7b,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,2c:e4:12:85:18:8b,Matrix,-61,2437
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,00:1a:3f:c6:db:48,Casa Prasbrasil,-83,2462
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,00:15:6d:dc:31:15,wireless,-93,2417
+bedroom3,f7df13bc-efa4-477c-a52d-7a8e68137f29,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom1,0b60a69e-2f86-4156-b9f0-565ecd216deb,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,0b60a69e-2f86-4156-b9f0-565ecd216deb,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,0b60a69e-2f86-4156-b9f0-565ecd216deb,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,98cde502-4227-4ccd-83e6-1b18576ad3ac,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,98cde502-4227-4ccd-83e6-1b18576ad3ac,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,98cde502-4227-4ccd-83e6-1b18576ad3ac,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,a85e92ce-2af8-45c5-98d4-d7e0d0c0cace,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,a85e92ce-2af8-45c5-98d4-d7e0d0c0cace,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,a85e92ce-2af8-45c5-98d4-d7e0d0c0cace,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,c9b4aecd-ab3b-4361-ab9d-70752d1fa77a,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,c9b4aecd-ab3b-4361-ab9d-70752d1fa77a,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom1,c9b4aecd-ab3b-4361-ab9d-70752d1fa77a,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,c9b4aecd-ab3b-4361-ab9d-70752d1fa77a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,8f2d54af-bdb6-4498-aabd-7a7678a5018b,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,8f2d54af-bdb6-4498-aabd-7a7678a5018b,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom1,8f2d54af-bdb6-4498-aabd-7a7678a5018b,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,8f2d54af-bdb6-4498-aabd-7a7678a5018b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,b514cc9d-f8e7-441e-a5e8-99ee54a32ed6,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,b514cc9d-f8e7-441e-a5e8-99ee54a32ed6,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom1,b514cc9d-f8e7-441e-a5e8-99ee54a32ed6,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,b514cc9d-f8e7-441e-a5e8-99ee54a32ed6,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,1752dad3-ac53-477a-8aaf-4bd2dc5d22bd,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,1752dad3-ac53-477a-8aaf-4bd2dc5d22bd,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom1,1752dad3-ac53-477a-8aaf-4bd2dc5d22bd,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,1752dad3-ac53-477a-8aaf-4bd2dc5d22bd,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,6622a441-e856-4062-a086-dfaa9be6a949,2c:e4:12:85:18:8b,Matrix,-51,2437
+bedroom1,6622a441-e856-4062-a086-dfaa9be6a949,54:e6:fc:c8:3c:1e,Nano,-77,2442
+bedroom1,6622a441-e856-4062-a086-dfaa9be6a949,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom1,6622a441-e856-4062-a086-dfaa9be6a949,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,871cf09b-b99f-4eba-abcb-9a856ed4097e,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,871cf09b-b99f-4eba-abcb-9a856ed4097e,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,871cf09b-b99f-4eba-abcb-9a856ed4097e,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,871cf09b-b99f-4eba-abcb-9a856ed4097e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,871cf09b-b99f-4eba-abcb-9a856ed4097e,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,1412f391-2a6a-4cb0-aa63-8b05359419fd,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,1412f391-2a6a-4cb0-aa63-8b05359419fd,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,1412f391-2a6a-4cb0-aa63-8b05359419fd,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,1412f391-2a6a-4cb0-aa63-8b05359419fd,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,1412f391-2a6a-4cb0-aa63-8b05359419fd,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,5ec02bd7-b2a7-44af-8118-291f85a7aa84,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,5ec02bd7-b2a7-44af-8118-291f85a7aa84,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,5ec02bd7-b2a7-44af-8118-291f85a7aa84,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,5ec02bd7-b2a7-44af-8118-291f85a7aa84,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,5ec02bd7-b2a7-44af-8118-291f85a7aa84,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,7df74947-6e8e-41db-a609-d4622bc22729,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,7df74947-6e8e-41db-a609-d4622bc22729,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,7df74947-6e8e-41db-a609-d4622bc22729,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,7df74947-6e8e-41db-a609-d4622bc22729,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,7df74947-6e8e-41db-a609-d4622bc22729,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,834efad3-b103-49a0-9ac6-ea2c60dad2db,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,834efad3-b103-49a0-9ac6-ea2c60dad2db,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,834efad3-b103-49a0-9ac6-ea2c60dad2db,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,834efad3-b103-49a0-9ac6-ea2c60dad2db,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,834efad3-b103-49a0-9ac6-ea2c60dad2db,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,53e6d9f4-3846-4c60-a1d2-be491d115e2e,2c:e4:12:85:18:8b,Matrix,-70,2437
+bedroom1,53e6d9f4-3846-4c60-a1d2-be491d115e2e,54:e6:fc:c8:3c:1e,Nano,-89,2442
+bedroom1,53e6d9f4-3846-4c60-a1d2-be491d115e2e,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,53e6d9f4-3846-4c60-a1d2-be491d115e2e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-97,2412
+bedroom1,53e6d9f4-3846-4c60-a1d2-be491d115e2e,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,d1581d94-f82a-4035-b55a-2d17d59fe659,2c:e4:12:85:18:8b,Matrix,-53,2437
+bedroom1,d1581d94-f82a-4035-b55a-2d17d59fe659,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom1,d1581d94-f82a-4035-b55a-2d17d59fe659,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,d1581d94-f82a-4035-b55a-2d17d59fe659,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom1,c31ce031-fe7d-4f8b-82bf-b8f359a744c8,2c:e4:12:85:18:8b,Matrix,-53,2437
+bedroom1,c31ce031-fe7d-4f8b-82bf-b8f359a744c8,54:e6:fc:c8:3c:1e,Nano,-87,2442
+bedroom1,c31ce031-fe7d-4f8b-82bf-b8f359a744c8,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+bedroom1,c31ce031-fe7d-4f8b-82bf-b8f359a744c8,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,79e7537f-7f8d-4ea6-b248-a604f54cd1ee,2c:e4:12:85:18:8b,Matrix,-60,2437
+livingroom,79e7537f-7f8d-4ea6-b248-a604f54cd1ee,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,79e7537f-7f8d-4ea6-b248-a604f54cd1ee,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,79e7537f-7f8d-4ea6-b248-a604f54cd1ee,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,79e7537f-7f8d-4ea6-b248-a604f54cd1ee,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+livingroom,1c25761a-669e-4aaf-8813-b3470484ff3c,2c:e4:12:85:18:8b,Matrix,-60,2437
+livingroom,1c25761a-669e-4aaf-8813-b3470484ff3c,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,1c25761a-669e-4aaf-8813-b3470484ff3c,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,1c25761a-669e-4aaf-8813-b3470484ff3c,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,1c25761a-669e-4aaf-8813-b3470484ff3c,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+livingroom,9d936648-ef83-4db2-9b1b-eb3e87e19a6e,2c:e4:12:85:18:8b,Matrix,-60,2437
+livingroom,9d936648-ef83-4db2-9b1b-eb3e87e19a6e,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,9d936648-ef83-4db2-9b1b-eb3e87e19a6e,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,9d936648-ef83-4db2-9b1b-eb3e87e19a6e,00:15:6d:dc:31:15,wireless,-94,2417
+livingroom,9d936648-ef83-4db2-9b1b-eb3e87e19a6e,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+livingroom,1fa0b2a3-bd21-4757-bf9b-170c64caf485,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,1fa0b2a3-bd21-4757-bf9b-170c64caf485,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,1fa0b2a3-bd21-4757-bf9b-170c64caf485,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,1fa0b2a3-bd21-4757-bf9b-170c64caf485,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,ee681d2b-68f7-4a66-84c2-3563448c26c2,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,ee681d2b-68f7-4a66-84c2-3563448c26c2,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,ee681d2b-68f7-4a66-84c2-3563448c26c2,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,ee681d2b-68f7-4a66-84c2-3563448c26c2,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,b8fe9848-7cef-4fb5-98dc-a7bd6c203eb8,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,b8fe9848-7cef-4fb5-98dc-a7bd6c203eb8,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,b8fe9848-7cef-4fb5-98dc-a7bd6c203eb8,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,b8fe9848-7cef-4fb5-98dc-a7bd6c203eb8,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,a58369c3-40f9-40f6-81ea-402b3f12bdab,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,a58369c3-40f9-40f6-81ea-402b3f12bdab,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,a58369c3-40f9-40f6-81ea-402b3f12bdab,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,a58369c3-40f9-40f6-81ea-402b3f12bdab,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,fb99bd78-29dd-4a0f-b260-0da3522bc580,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,fb99bd78-29dd-4a0f-b260-0da3522bc580,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,fb99bd78-29dd-4a0f-b260-0da3522bc580,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,fb99bd78-29dd-4a0f-b260-0da3522bc580,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,b403ccd1-8ff9-4a13-a940-c2164b6da60a,2c:e4:12:85:18:8b,Matrix,-64,2437
+livingroom,b403ccd1-8ff9-4a13-a940-c2164b6da60a,54:e6:fc:c8:3c:1e,Nano,-87,2442
+livingroom,b403ccd1-8ff9-4a13-a940-c2164b6da60a,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+livingroom,b403ccd1-8ff9-4a13-a940-c2164b6da60a,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,3c3295ed-20cc-4a45-b732-c576774d2460,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,3c3295ed-20cc-4a45-b732-c576774d2460,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+livingroom,3c3295ed-20cc-4a45-b732-c576774d2460,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,3c3295ed-20cc-4a45-b732-c576774d2460,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+livingroom,d04517c2-d6ae-4d7a-aec3-4c5e8c673edf,2c:e4:12:85:18:8b,Matrix,-65,2437
+livingroom,d04517c2-d6ae-4d7a-aec3-4c5e8c673edf,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+livingroom,d04517c2-d6ae-4d7a-aec3-4c5e8c673edf,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+livingroom,d04517c2-d6ae-4d7a-aec3-4c5e8c673edf,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,7479e1cf-55ab-42f3-ab50-1ee6336ccd0c,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,7479e1cf-55ab-42f3-ab50-1ee6336ccd0c,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,7479e1cf-55ab-42f3-ab50-1ee6336ccd0c,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,7479e1cf-55ab-42f3-ab50-1ee6336ccd0c,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,7479e1cf-55ab-42f3-ab50-1ee6336ccd0c,00:15:6d:dc:31:15,wireless,-90,2417
+dinningroom,7da83f06-dcea-47e8-a896-2551a96bff3e,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,7da83f06-dcea-47e8-a896-2551a96bff3e,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,7da83f06-dcea-47e8-a896-2551a96bff3e,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,7da83f06-dcea-47e8-a896-2551a96bff3e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,7da83f06-dcea-47e8-a896-2551a96bff3e,00:15:6d:dc:31:15,wireless,-90,2417
+dinningroom,e383b007-bb19-4cce-ae1e-3bd3c174700b,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,e383b007-bb19-4cce-ae1e-3bd3c174700b,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,e383b007-bb19-4cce-ae1e-3bd3c174700b,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,e383b007-bb19-4cce-ae1e-3bd3c174700b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,e383b007-bb19-4cce-ae1e-3bd3c174700b,00:15:6d:dc:31:15,wireless,-90,2417
+dinningroom,ba449525-c713-4595-ac56-a04d636f7625,2c:e4:12:85:18:8b,Matrix,-55,2437
+dinningroom,ba449525-c713-4595-ac56-a04d636f7625,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+dinningroom,ba449525-c713-4595-ac56-a04d636f7625,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,ba449525-c713-4595-ac56-a04d636f7625,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,ba449525-c713-4595-ac56-a04d636f7625,00:15:6d:dc:31:15,wireless,-90,2417
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,26adadae-6dca-40a4-a61f-e20442761930,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,ce84d623-8515-4739-bc54-6f08a35742cf,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,fe8e802d-6706-4e44-9475-d187727dad55,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,66ebfc42-d923-4d34-8cc0-dfd8dd8a5b91,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,2c:e4:12:85:18:8b,Matrix,-50,2437
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,00:1d:d5:cf:33:80,NETVIRTUA-219,-96,2412
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-94,2412
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,fa8f6d06-2bbb-49ba-9410-276cdb8b32b9,54:e6:fc:c8:3c:1e,Nano,-82,2442
+dinningroom,f2002955-7da0-41cb-b38e-f5f82e6bb4ca,2c:e4:12:85:18:8b,Matrix,-46,2437
+dinningroom,f2002955-7da0-41cb-b38e-f5f82e6bb4ca,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+dinningroom,f2002955-7da0-41cb-b38e-f5f82e6bb4ca,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,f2002955-7da0-41cb-b38e-f5f82e6bb4ca,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,4f3684b5-ab28-4159-a8d6-cd6dda67750d,2c:e4:12:85:18:8b,Matrix,-46,2437
+dinningroom,4f3684b5-ab28-4159-a8d6-cd6dda67750d,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+dinningroom,4f3684b5-ab28-4159-a8d6-cd6dda67750d,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,4f3684b5-ab28-4159-a8d6-cd6dda67750d,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,08835efa-9919-414e-b3d5-e5052e0c6c6b,2c:e4:12:85:18:8b,Matrix,-46,2437
+dinningroom,08835efa-9919-414e-b3d5-e5052e0c6c6b,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+dinningroom,08835efa-9919-414e-b3d5-e5052e0c6c6b,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,08835efa-9919-414e-b3d5-e5052e0c6c6b,54:e6:fc:c8:3c:1e,Nano,-85,2442
+dinningroom,de359c39-b539-45dc-9782-04ab83d1d739,2c:e4:12:85:18:8b,Matrix,-46,2437
+dinningroom,de359c39-b539-45dc-9782-04ab83d1d739,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+dinningroom,de359c39-b539-45dc-9782-04ab83d1d739,00:15:6d:dc:31:15,wireless,-92,2417
+dinningroom,de359c39-b539-45dc-9782-04ab83d1d739,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,fda31c01-699f-4982-be37-91dda94194dc,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom2,fda31c01-699f-4982-be37-91dda94194dc,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,fda31c01-699f-4982-be37-91dda94194dc,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom2,f793856b-c99c-4702-8819-ad64f3751676,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom2,f793856b-c99c-4702-8819-ad64f3751676,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,f793856b-c99c-4702-8819-ad64f3751676,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom2,efd21593-1523-41f8-8f87-bf7194b55aa5,2c:e4:12:85:18:8b,Matrix,-64,2437
+bedroom2,efd21593-1523-41f8-8f87-bf7194b55aa5,00:15:6d:dc:31:15,wireless,-88,2417
+bedroom2,efd21593-1523-41f8-8f87-bf7194b55aa5,54:e6:fc:c8:3c:1e,Nano,-82,2442
+bedroom2,dce37fb2-6643-41f8-9912-0fadbb5e5d2e,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,dce37fb2-6643-41f8-9912-0fadbb5e5d2e,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,dce37fb2-6643-41f8-9912-0fadbb5e5d2e,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,dce37fb2-6643-41f8-9912-0fadbb5e5d2e,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,9cdc8973-d0a6-46e6-8352-e45ffe60114d,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,9cdc8973-d0a6-46e6-8352-e45ffe60114d,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,9cdc8973-d0a6-46e6-8352-e45ffe60114d,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,9cdc8973-d0a6-46e6-8352-e45ffe60114d,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,0c3ac776-a965-4fae-845b-a35d74b0b4cd,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,0c3ac776-a965-4fae-845b-a35d74b0b4cd,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,0c3ac776-a965-4fae-845b-a35d74b0b4cd,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,0c3ac776-a965-4fae-845b-a35d74b0b4cd,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,2a7501c8-6ab8-4ae8-867d-599b57e866b2,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,2a7501c8-6ab8-4ae8-867d-599b57e866b2,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,2a7501c8-6ab8-4ae8-867d-599b57e866b2,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,2a7501c8-6ab8-4ae8-867d-599b57e866b2,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,e1ac696c-5c2f-40c6-b219-1898342a5916,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,e1ac696c-5c2f-40c6-b219-1898342a5916,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,e1ac696c-5c2f-40c6-b219-1898342a5916,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,e1ac696c-5c2f-40c6-b219-1898342a5916,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,7d952376-340b-4e96-9172-993e701d8841,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,7d952376-340b-4e96-9172-993e701d8841,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,7d952376-340b-4e96-9172-993e701d8841,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,7d952376-340b-4e96-9172-993e701d8841,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,60626f06-0006-420d-b8c1-64d1060d7bed,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom2,60626f06-0006-420d-b8c1-64d1060d7bed,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,60626f06-0006-420d-b8c1-64d1060d7bed,54:e6:fc:c8:3c:1e,Nano,-85,2442
+bedroom2,60626f06-0006-420d-b8c1-64d1060d7bed,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,9a9aba6b-ad88-47ff-a730-1c14e3719d9d,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,9a9aba6b-ad88-47ff-a730-1c14e3719d9d,00:15:6d:dc:31:15,wireless,-83,2417
+bedroom2,9a9aba6b-ad88-47ff-a730-1c14e3719d9d,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,9a9aba6b-ad88-47ff-a730-1c14e3719d9d,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,abed0f91-7a1f-4c28-987d-bb60bfe603ef,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,abed0f91-7a1f-4c28-987d-bb60bfe603ef,00:15:6d:dc:31:15,wireless,-83,2417
+bedroom2,abed0f91-7a1f-4c28-987d-bb60bfe603ef,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,abed0f91-7a1f-4c28-987d-bb60bfe603ef,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,c7f84825-4b21-4ec0-8705-6c00b31d39fc,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,c7f84825-4b21-4ec0-8705-6c00b31d39fc,00:15:6d:dc:31:15,wireless,-83,2417
+bedroom2,c7f84825-4b21-4ec0-8705-6c00b31d39fc,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,c7f84825-4b21-4ec0-8705-6c00b31d39fc,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,429d9d1e-4032-46df-a696-4658e95d24a8,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,429d9d1e-4032-46df-a696-4658e95d24a8,00:15:6d:dc:31:15,wireless,-83,2417
+bedroom2,429d9d1e-4032-46df-a696-4658e95d24a8,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,429d9d1e-4032-46df-a696-4658e95d24a8,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,892d9ca2-4001-4571-b368-62c67b5a8c9b,2c:e4:12:85:18:8b,Matrix,-65,2437
+bedroom2,892d9ca2-4001-4571-b368-62c67b5a8c9b,00:15:6d:dc:31:15,wireless,-83,2417
+bedroom2,892d9ca2-4001-4571-b368-62c67b5a8c9b,54:e6:fc:c8:3c:1e,Nano,-86,2442
+bedroom2,892d9ca2-4001-4571-b368-62c67b5a8c9b,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+bedroom2,cbcf1671-2bf7-49bd-a554-cb3269110b0f,2c:e4:12:85:18:8b,Matrix,-67,2437
+bedroom2,cbcf1671-2bf7-49bd-a554-cb3269110b0f,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,cbcf1671-2bf7-49bd-a554-cb3269110b0f,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom2,cbcf1671-2bf7-49bd-a554-cb3269110b0f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-95,2412
+bedroom2,69df0331-a41d-4373-8a9e-49ea01b5312a,2c:e4:12:85:18:8b,Matrix,-67,2437
+bedroom2,69df0331-a41d-4373-8a9e-49ea01b5312a,00:15:6d:dc:31:15,wireless,-85,2417
+bedroom2,69df0331-a41d-4373-8a9e-49ea01b5312a,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom2,69df0331-a41d-4373-8a9e-49ea01b5312a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-95,2412
+bedroom3,903832c0-83bb-44e1-afb4-1a47ccf0be08,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,903832c0-83bb-44e1-afb4-1a47ccf0be08,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,903832c0-83bb-44e1-afb4-1a47ccf0be08,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom3,903832c0-83bb-44e1-afb4-1a47ccf0be08,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,903832c0-83bb-44e1-afb4-1a47ccf0be08,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,b6ef39fc-03cb-4915-9326-1d9dc3d6a3d8,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,b6ef39fc-03cb-4915-9326-1d9dc3d6a3d8,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,b6ef39fc-03cb-4915-9326-1d9dc3d6a3d8,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom3,b6ef39fc-03cb-4915-9326-1d9dc3d6a3d8,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,b6ef39fc-03cb-4915-9326-1d9dc3d6a3d8,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,b904e77c-bbb1-43fe-96e2-c61a6f81ab00,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,b904e77c-bbb1-43fe-96e2-c61a6f81ab00,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,b904e77c-bbb1-43fe-96e2-c61a6f81ab00,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom3,b904e77c-bbb1-43fe-96e2-c61a6f81ab00,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,b904e77c-bbb1-43fe-96e2-c61a6f81ab00,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,a54ec496-aa8c-426a-9693-c317590ec136,2c:e4:12:85:18:8b,Matrix,-74,2437
+bedroom3,a54ec496-aa8c-426a-9693-c317590ec136,00:15:6d:dc:31:15,wireless,-92,2417
+bedroom3,a54ec496-aa8c-426a-9693-c317590ec136,54:e6:fc:c8:3c:1e,Nano,-81,2442
+bedroom3,a54ec496-aa8c-426a-9693-c317590ec136,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+bedroom3,a54ec496-aa8c-426a-9693-c317590ec136,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+bedroom3,dabdeb10-47cb-4dbe-b720-3f896d3aa85f,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,dabdeb10-47cb-4dbe-b720-3f896d3aa85f,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,dabdeb10-47cb-4dbe-b720-3f896d3aa85f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,dabdeb10-47cb-4dbe-b720-3f896d3aa85f,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+bedroom3,dabdeb10-47cb-4dbe-b720-3f896d3aa85f,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,ad78b17a-57af-4460-9b3b-62e6f907bb6e,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,ad78b17a-57af-4460-9b3b-62e6f907bb6e,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,ad78b17a-57af-4460-9b3b-62e6f907bb6e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,ad78b17a-57af-4460-9b3b-62e6f907bb6e,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+bedroom3,ad78b17a-57af-4460-9b3b-62e6f907bb6e,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,231164ee-c46d-4619-9d7f-d12cb22eaa95,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,231164ee-c46d-4619-9d7f-d12cb22eaa95,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,231164ee-c46d-4619-9d7f-d12cb22eaa95,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,231164ee-c46d-4619-9d7f-d12cb22eaa95,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+bedroom3,231164ee-c46d-4619-9d7f-d12cb22eaa95,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,174e0e2d-d463-47b0-89f9-311a2c075c2f,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,174e0e2d-d463-47b0-89f9-311a2c075c2f,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,174e0e2d-d463-47b0-89f9-311a2c075c2f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,174e0e2d-d463-47b0-89f9-311a2c075c2f,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+bedroom3,174e0e2d-d463-47b0-89f9-311a2c075c2f,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,5999b51f-9a10-4d1e-a78a-d84363c2b850,2c:e4:12:85:18:8b,Matrix,-68,2437
+bedroom3,5999b51f-9a10-4d1e-a78a-d84363c2b850,00:15:6d:dc:31:15,wireless,-94,2417
+bedroom3,5999b51f-9a10-4d1e-a78a-d84363c2b850,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+bedroom3,5999b51f-9a10-4d1e-a78a-d84363c2b850,00:4f:62:10:ce:be,PLASBRASIL,-85,2427
+bedroom3,5999b51f-9a10-4d1e-a78a-d84363c2b850,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,8d9f3235-25d2-494b-acf1-7f57760eb6c5,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,b9e40dd3-fab7-4eed-84e5-6b0763d2799b,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,66ef7c06-c003-4118-9111-76aacc726653,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,00:15:6d:dc:31:15,wireless,-91,2417
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,00:4f:62:10:ce:be,PLASBRASIL,-84,2427
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,dbc4fec0-9900-4542-b949-c2f99c143d7d,00:1d:d5:cf:33:80,NETVIRTUA-219,-95,2412
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,00:15:6d:dc:31:15,wireless,-87,2417
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,aaad1988-cf7d-4af8-8c86-78729070385a,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,00:15:6d:dc:31:15,wireless,-87,2417
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,c9497717-3c6a-4ab5-910f-fdfd3078a27e,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,2c:e4:12:85:18:8b,Matrix,-66,2437
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,00:15:6d:dc:31:15,wireless,-87,2417
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,00:4f:62:10:ce:be,PLASBRASIL,-87,2427
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,00:1a:3f:c6:db:48,Casa Prasbrasil,-84,2462
+bedroom3,c5dae6b2-dacc-4b6a-971e-5197b5cd857d,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,2c:e4:12:85:18:8b,Matrix,-63,2437
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+bedroom3,c4ca7649-cee1-454e-a307-8fb3627ac298,54:e6:fc:c8:3c:1e,Nano,-84,2442
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,2c:e4:12:85:18:8b,Matrix,-63,2437
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,00:15:6d:dc:31:15,wireless,-89,2417
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,00:1d:d5:cf:33:80,NETVIRTUA-219,-93,2412
+bedroom3,be53b2b8-0be6-4bb8-9a54-d09c5d5100e7,54:e6:fc:c8:3c:1e,Nano,-84,2442
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,2c:e4:12:85:18:8b,Matrix,-67,2437
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,54:e6:fc:c8:3c:1e,Nano,-86,2442
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,68:15:90:5f:61:6a,GVT-6169,-83,2462
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+garage,a8563916-209e-4d2f-a6b9-c840f49fcda8,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,2c:e4:12:85:18:8b,Matrix,-79,2437
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,d6b21ef7-a26f-470f-9554-c79bfce1cde4,00:15:6d:dc:31:15,wireless,-88,2417
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,2c:e4:12:85:18:8b,Matrix,-79,2437
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,35731b9c-7be4-41a4-b4d4-f387a364caea,00:15:6d:dc:31:15,wireless,-88,2417
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,2c:e4:12:85:18:8b,Matrix,-79,2437
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,9364463e-3d5d-4051-83c0-c6c34c36b8a1,00:15:6d:dc:31:15,wireless,-88,2417
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,2c:e4:12:85:18:8b,Matrix,-79,2437
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,ba93c751-5177-46da-9b69-c6a18bdd9247,00:15:6d:dc:31:15,wireless,-88,2417
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,2c:e4:12:85:18:8b,Matrix,-76,2437
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,6c61927c-6458-4ced-930f-3d12f6a946e5,00:15:6d:dc:31:15,wireless,-88,2417
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,2c:e4:12:85:18:8b,Matrix,-76,2437
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,3a6eb577-3169-48eb-b891-7b25c9dbf419,00:15:6d:dc:31:15,wireless,-88,2417
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,2c:e4:12:85:18:8b,Matrix,-76,2437
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,df9c595d-2938-47bc-af59-e8fbdf8dfe13,00:15:6d:dc:31:15,wireless,-88,2417
+garage,e484b227-774c-4656-9524-cc34a258bb26,2c:e4:12:85:18:8b,Matrix,-76,2437
+garage,e484b227-774c-4656-9524-cc34a258bb26,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+garage,e484b227-774c-4656-9524-cc34a258bb26,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,e484b227-774c-4656-9524-cc34a258bb26,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+garage,e484b227-774c-4656-9524-cc34a258bb26,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,e484b227-774c-4656-9524-cc34a258bb26,00:15:6d:dc:31:15,wireless,-88,2417
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,2c:e4:12:85:18:8b,Matrix,-76,2437
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,00:4f:62:10:ce:be,PLASBRASIL,-88,2427
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,00:1d:d5:cf:33:80,NETVIRTUA-219,-94,2412
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-93,2412
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,68:15:90:5d:68:51,GVT-6850,-94,2412
+garage,0ced2df0-d06f-4e7d-aae4-c395dedf85b3,00:15:6d:dc:31:15,wireless,-88,2417
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,2c:e4:12:85:18:8b,Matrix,-71,2437
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,00:1d:d5:cf:33:80,NETVIRTUA-219,-81,2412
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,00:15:6d:dc:31:15,wireless,-88,2417
+garage,eca7f350-5eeb-442b-8b09-bf8edabefeb3,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,2c:e4:12:85:18:8b,Matrix,-71,2437
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,00:1d:d5:cf:33:80,NETVIRTUA-219,-81,2412
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,00:15:6d:dc:31:15,wireless,-88,2417
+garage,72b05197-fa0f-4fb9-bb3c-63d98f005227,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,2c:e4:12:85:18:8b,Matrix,-71,2437
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,00:1d:d5:cf:33:80,NETVIRTUA-219,-81,2412
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-92,2412
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,00:15:6d:dc:31:15,wireless,-88,2417
+garage,0694bdd6-d405-4b38-89ab-4ddd38d0149c,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garage,b2b2c2ef-4018-4201-b210-c2636b3a39da,2c:e4:12:85:18:8b,Matrix,-70,2437
+garage,b2b2c2ef-4018-4201-b210-c2636b3a39da,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,b2b2c2ef-4018-4201-b210-c2636b3a39da,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+garage,b2b2c2ef-4018-4201-b210-c2636b3a39da,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,b2b2c2ef-4018-4201-b210-c2636b3a39da,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garage,c9a2a2d5-ae61-4d3a-8c9d-35f7f2ed2177,2c:e4:12:85:18:8b,Matrix,-70,2437
+garage,c9a2a2d5-ae61-4d3a-8c9d-35f7f2ed2177,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,c9a2a2d5-ae61-4d3a-8c9d-35f7f2ed2177,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+garage,c9a2a2d5-ae61-4d3a-8c9d-35f7f2ed2177,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,c9a2a2d5-ae61-4d3a-8c9d-35f7f2ed2177,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garage,6f7db3fa-1677-4f8e-8ba1-aa1ebea12f6e,2c:e4:12:85:18:8b,Matrix,-70,2437
+garage,6f7db3fa-1677-4f8e-8ba1-aa1ebea12f6e,00:4f:62:10:ce:be,PLASBRASIL,-86,2427
+garage,6f7db3fa-1677-4f8e-8ba1-aa1ebea12f6e,00:1d:d5:cf:33:80,NETVIRTUA-219,-90,2412
+garage,6f7db3fa-1677-4f8e-8ba1-aa1ebea12f6e,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garage,6f7db3fa-1677-4f8e-8ba1-aa1ebea12f6e,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garden,8833cf5a-0909-429f-aea7-3313f2b396d5,2c:e4:12:85:18:8b,Matrix,-73,2437
+garden,8833cf5a-0909-429f-aea7-3313f2b396d5,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,8833cf5a-0909-429f-aea7-3313f2b396d5,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,8833cf5a-0909-429f-aea7-3313f2b396d5,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+garden,8833cf5a-0909-429f-aea7-3313f2b396d5,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,d183b26e-bc96-4ba2-8dc5-24eb3f70167a,2c:e4:12:85:18:8b,Matrix,-73,2437
+garden,d183b26e-bc96-4ba2-8dc5-24eb3f70167a,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,d183b26e-bc96-4ba2-8dc5-24eb3f70167a,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,d183b26e-bc96-4ba2-8dc5-24eb3f70167a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-88,2412
+garden,d183b26e-bc96-4ba2-8dc5-24eb3f70167a,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,23c01e4f-19c7-491f-b421-8d8433166127,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,23c01e4f-19c7-491f-b421-8d8433166127,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,23c01e4f-19c7-491f-b421-8d8433166127,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,23c01e4f-19c7-491f-b421-8d8433166127,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,23c01e4f-19c7-491f-b421-8d8433166127,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,23c01e4f-19c7-491f-b421-8d8433166127,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,23c01e4f-19c7-491f-b421-8d8433166127,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,22da6bf0-9422-4333-a351-24be74bd355b,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,22da6bf0-9422-4333-a351-24be74bd355b,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,22da6bf0-9422-4333-a351-24be74bd355b,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,22da6bf0-9422-4333-a351-24be74bd355b,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,22da6bf0-9422-4333-a351-24be74bd355b,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,22da6bf0-9422-4333-a351-24be74bd355b,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,22da6bf0-9422-4333-a351-24be74bd355b,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,4f1d2aad-e93c-4d0b-aae2-83127a3d4973,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,00:4f:62:10:ce:be,PLASBRASIL,-81,2427
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,c4:27:95:bf:ee:97,kruger_home,-89,2437
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,2100d625-f7dc-4c07-90c1-c6247a791b69,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,f3ce4df5-b0db-4c97-a49a-7778a508a100,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,dbf4b899-c0e0-46cc-8704-88a0fffd017a,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,00:4f:62:10:ce:be,PLASBRASIL,-89,2427
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,00:1d:d5:cf:33:80,NETVIRTUA-219,-85,2412
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,f071ae8b-84e5-4522-b794-3586aafc7949,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,a5b403c6-cc55-4abd-a38b-6d70c610bcfd,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,a5b403c6-cc55-4abd-a38b-6d70c610bcfd,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,a5b403c6-cc55-4abd-a38b-6d70c610bcfd,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,a5b403c6-cc55-4abd-a38b-6d70c610bcfd,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,a5b403c6-cc55-4abd-a38b-6d70c610bcfd,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,127e20fc-7506-420e-b684-567f2e262010,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,127e20fc-7506-420e-b684-567f2e262010,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,127e20fc-7506-420e-b684-567f2e262010,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,127e20fc-7506-420e-b684-567f2e262010,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,127e20fc-7506-420e-b684-567f2e262010,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,5f6556bc-25d4-4a83-a882-546bc744f291,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,5f6556bc-25d4-4a83-a882-546bc744f291,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,5f6556bc-25d4-4a83-a882-546bc744f291,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,5f6556bc-25d4-4a83-a882-546bc744f291,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,5f6556bc-25d4-4a83-a882-546bc744f291,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,14d470eb-ebec-4275-b2d3-c1cb26387233,2c:e4:12:85:18:8b,Matrix,-80,2437
+garden,14d470eb-ebec-4275-b2d3-c1cb26387233,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,14d470eb-ebec-4275-b2d3-c1cb26387233,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-90,2412
+garden,14d470eb-ebec-4275-b2d3-c1cb26387233,28:be:9b:d8:0c:1f,Netvirtua_49-2,-83,2462
+garden,14d470eb-ebec-4275-b2d3-c1cb26387233,54:e6:fc:c8:3c:1e,Nano,-85,2442
+garden,33fb238d-24b3-4da0-b208-f77029f8a637,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,33fb238d-24b3-4da0-b208-f77029f8a637,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,33fb238d-24b3-4da0-b208-f77029f8a637,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,43fa4a5d-c5d8-4320-8e59-c52e5094fd29,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,43fa4a5d-c5d8-4320-8e59-c52e5094fd29,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,43fa4a5d-c5d8-4320-8e59-c52e5094fd29,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,d016b3be-a948-4d42-98c9-6686bd819a69,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,d016b3be-a948-4d42-98c9-6686bd819a69,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,d016b3be-a948-4d42-98c9-6686bd819a69,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,a98905ee-51f1-424c-929d-c76dffd699f0,2c:e4:12:85:18:8b,Matrix,-78,2437
+garden,a98905ee-51f1-424c-929d-c76dffd699f0,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,a98905ee-51f1-424c-929d-c76dffd699f0,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,4384dd06-3a1a-4b4e-a373-e759f527b31a,2c:e4:12:85:18:8b,Matrix,-78,2437
+garden,4384dd06-3a1a-4b4e-a373-e759f527b31a,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,4384dd06-3a1a-4b4e-a373-e759f527b31a,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,e2c8b943-9369-4c82-be4f-f3d8372828e1,2c:e4:12:85:18:8b,Matrix,-78,2437
+garden,e2c8b943-9369-4c82-be4f-f3d8372828e1,00:4f:62:10:ce:be,PLASBRASIL,-94,2427
+garden,e2c8b943-9369-4c82-be4f-f3d8372828e1,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-89,2412
+garden,755a51d3-ac1c-41f7-914a-a709b07f23cf,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,8b3f32ea-bb7f-46cc-9cdb-2e800ccb658d,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,2e71a754-ece2-4daf-a0b9-745ed2ae2dd1,2c:e4:12:85:18:8b,Matrix,-70,2437
+garden,eefd9f92-b68e-4ba9-a6df-d44eaaedfa25,2c:e4:12:85:18:8b,Matrix,-76,2437
+garden,eefd9f92-b68e-4ba9-a6df-d44eaaedfa25,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,eefd9f92-b68e-4ba9-a6df-d44eaaedfa25,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+garden,eefd9f92-b68e-4ba9-a6df-d44eaaedfa25,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,4ff9044b-302c-4366-9568-8e2f7c6fae02,2c:e4:12:85:18:8b,Matrix,-76,2437
+garden,4ff9044b-302c-4366-9568-8e2f7c6fae02,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,4ff9044b-302c-4366-9568-8e2f7c6fae02,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+garden,4ff9044b-302c-4366-9568-8e2f7c6fae02,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,f18e35bf-7399-446e-915f-f2b6702450ed,2c:e4:12:85:18:8b,Matrix,-76,2437
+garden,f18e35bf-7399-446e-915f-f2b6702450ed,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,f18e35bf-7399-446e-915f-f2b6702450ed,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-87,2412
+garden,f18e35bf-7399-446e-915f-f2b6702450ed,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,7eab420f-0c05-4685-8c33-4f6811ae213c,2c:e4:12:85:18:8b,Matrix,-73,2437
+garden,7eab420f-0c05-4685-8c33-4f6811ae213c,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,7eab420f-0c05-4685-8c33-4f6811ae213c,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,7eab420f-0c05-4685-8c33-4f6811ae213c,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,7eab420f-0c05-4685-8c33-4f6811ae213c,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,ef3aba78-5530-4fa6-a5e8-7dc4f6451a95,2c:e4:12:85:18:8b,Matrix,-73,2437
+garden,ef3aba78-5530-4fa6-a5e8-7dc4f6451a95,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,ef3aba78-5530-4fa6-a5e8-7dc4f6451a95,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,ef3aba78-5530-4fa6-a5e8-7dc4f6451a95,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,ef3aba78-5530-4fa6-a5e8-7dc4f6451a95,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,8c10512d-258f-4149-ad35-3c9eba950dba,2c:e4:12:85:18:8b,Matrix,-73,2437
+garden,8c10512d-258f-4149-ad35-3c9eba950dba,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,8c10512d-258f-4149-ad35-3c9eba950dba,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,8c10512d-258f-4149-ad35-3c9eba950dba,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,8c10512d-258f-4149-ad35-3c9eba950dba,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,2c:e4:12:85:18:8b,Matrix,-86,2437
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,00:1d:d5:cf:33:80,NETVIRTUA-219,-88,2412
+garden,5efc77a2-3a50-4ad6-bfda-d51ab367b98d,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,2c:e4:12:85:18:8b,Matrix,-86,2437
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,00:1d:d5:cf:33:80,NETVIRTUA-219,-88,2412
+garden,dd793cea-18b1-4247-ad02-efeb7203f795,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,2c:e4:12:85:18:8b,Matrix,-86,2437
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,28:be:9b:d8:0c:1f,Netvirtua_49-2,-85,2462
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,10:fe:ed:8e:44:8e,Rede Loja,-94,2412
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,00:1d:d5:cf:33:80,NETVIRTUA-219,-88,2412
+garden,2a7ed597-384f-48ec-a973-a49464d06a7f,00:1a:3f:c6:db:48,Casa Prasbrasil,-85,2462
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,28:be:9b:d8:0c:1f,Netvirtua_49-2,-84,2462
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garden,acfba4aa-03ca-41b9-a394-6e349b789253,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,28:be:9b:d8:0c:1f,Netvirtua_49-2,-84,2462
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garden,e8f13e90-7aeb-40ab-8bfc-e94ec4d24cef,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,25dba323-c822-42c1-a072-696a6e9160c1,2c:e4:12:85:18:8b,Matrix,-85,2437
+garden,25dba323-c822-42c1-a072-696a6e9160c1,28:be:9b:d8:0c:1f,Netvirtua_49-2,-84,2462
+garden,25dba323-c822-42c1-a072-696a6e9160c1,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-86,2412
+garden,25dba323-c822-42c1-a072-696a6e9160c1,00:1d:d5:cf:33:80,NETVIRTUA-219,-92,2412
+garden,25dba323-c822-42c1-a072-696a6e9160c1,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garden,25dba323-c822-42c1-a072-696a6e9160c1,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,2c:e4:12:85:18:8b,Matrix,-83,2437
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,28:be:9b:d8:0c:1f,Netvirtua_49-2,-84,2462
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,30:f3:1d:32:0b:8f,VIVO Wi-Fi,-82,2412
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,00:1d:d5:cf:33:80,NETVIRTUA-219,-89,2412
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,00:1a:3f:c6:db:48,Casa Prasbrasil,-86,2462
+garden,8b77601f-862c-41bd-b6dc-e73940713b54,00:4f:62:10:ce:be,PLASBRASIL,-92,2427
