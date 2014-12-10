@@ -15,7 +15,7 @@ import weka.classifiers.Evaluation;
  * @author guilherme
  */
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) throws Exception{
         //String dataFile = "wifi_data.txt";
         String dataFile = "wifi_data_university.txt";
         
@@ -25,7 +25,9 @@ public class Main {
         predService.generateTrainData();
         Evaluation eval = predService.train();
         System.out.println("================================================");
-        System.out.println(eval.toSummaryString("\nResults\n======\n", false));
+        System.out.println(eval.toSummaryString("\nResults\n======\n", true));
+        System.out.println("================================================");
+        System.out.println(eval.toMatrixString("\nConfusion Matrix\n======\n"));
         System.out.println("================================================");
     }
 }

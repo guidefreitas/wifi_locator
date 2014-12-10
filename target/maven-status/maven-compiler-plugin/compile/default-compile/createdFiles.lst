@@ -1,0 +1,11 @@
+com/guidefreitas/locator/model/LocationData.class
+com/guidefreitas/locator/model/AccessPoint.class
+com/guidefreitas/locator/model/PredictionRequest.class
+com/guidefreitas/locator/services/PredictionService.class
+com/guidefreitas/locator/model/Room.class
+com/guidefreitas/locator/services/LocationService.class
+com/guidefreitas/locator/config/Config.class
+com/guidefreitas/locator/main/Main.class
+com/guidefreitas/locator/services/RoomService.class
+com/guidefreitas/locator/config/DatabaseManager.class
+com/guidefreitas/locator/services/AbstractService.class
